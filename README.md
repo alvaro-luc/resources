@@ -6,6 +6,7 @@ This repository is intented to collect a set of links in order to provide a deep
 ## Information Security Resources
 
 - [WAF](https://github.com/0xInfection/Awesome-WAF) by [Pinaki Mondal](https://github.com/0xInfection). Information of how WAF works, testing methodology, WAF fingerprints, evasion techniques, known bypasses, awesome tooling, blogs & writeups, etc.
+- [Security - Hardening](https://github.com/decalage2/awesome-security-hardening) by [Philippe Lagadec](https://github.com/decalage2). A collection of awesome security hardening guides, best practices, checklists, benchmarks, tools and other resources.
 
 
 ## AWS IoT
@@ -22,12 +23,14 @@ This repository is intented to collect a set of links in order to provide a deep
 ## Hacking
 
 - [HackTheBox writeups](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA) by [IppSec](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA/about).
+- [HackTheBox CTF Writeups](https://github.com/Ignitetechnologies/HackTheBox-CTF-Writeups) by [Ignitetechnologies](https://github.com/Ignitetechnologies).
 
 
-## Security Organizations
+## Security Organizations Whitepapers/Reports
 
 - [SANS Security Whitepapers](https://software-security.sans.org/resources/whitepapers) by [SANS Cloud Security](https://software-security.sans.org/).
 - [OWASP Top 10 Web Application Security Risks](https://owasp.org/www-project-top-ten/) by [OWASP](https://owasp.org/).
 - [IoT and Smart Infrastructures Security - Reports](https://www.enisa.europa.eu/publications#c5=2010&c5=2020&c5=false&c2=publicationDate&reversed=on&b_start=0&c10=IoT+and+Smart+Infrastructures) by [ENISA](https://www.enisa.europa.eu/).
 - [Cloud and Big Data Security - Reports](https://www.enisa.europa.eu/publications#c5=2010&c5=2020&c5=false&c2=publicationDate&reversed=on&b_start=0&c10=Cloud+and+Big+Data) by [ENISA](https://www.enisa.europa.eu/).
 - [NIST Cybersecurity Publications](https://www.nist.gov/publications/search?ta%5B0%5D=248731) by [NIST](https://www.nist.gov/).
+- [NIST IoT Security Publications](https://www.nist.gov/publications/search?k=iot&t=&a=&s=All&n=&d%5Bmin%5D=&d%5Bmax%5D=) by [NIST](https://www.nist.gov/).
