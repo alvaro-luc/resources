@@ -13,6 +13,7 @@ This repository is intented to collect a set of links in order to provide a deep
 
 - [The Internet of Things on AWS – Official Blog](https://aws.amazon.com/blogs/iot/) by AWS.
 - [AWS Solutions Implementation](https://aws.amazon.com/solutions/implementations/?solutions-all.sort-by=item.additionalFields.sortDate&solutions-all.sort-order=desc&awsf.AWS-Product%20Category=tech-category%23iot) by AWS. Multiple IoT-related architectures.
+- [AWS IoT Talks](https://www.youtube.com/playlist?list=PL5bUlblGfe0LHe_p4sZ9-MF6fUZw9IQkb) by [AWS Online Tech Talks](https://www.youtube.com/user/AWSwebinars/about).
 
 
 ## AWS Security
