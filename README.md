@@ -8,6 +8,11 @@ This repository is intented to collect a set of links in order to provide a deep
 - [WAF](https://github.com/0xInfection/Awesome-WAF) by [Pinaki Mondal](https://github.com/0xInfection). Information of how WAF works, testing methodology, WAF fingerprints, evasion techniques, known bypasses, awesome tooling, blogs & writeups, etc.
 - [Security - Hardening](https://github.com/decalage2/awesome-security-hardening) by [Philippe Lagadec](https://github.com/decalage2). A collection of awesome security hardening guides, best practices, checklists, benchmarks, tools and other resources.
 
+## IoT Security
+
+- [Securing IoT Devices](https://www.peerlyst.com/posts/the-iot-wiki-peerlyst?utm_source=linkedin&utm_medium=social&utm_content=peerlyst_post&utm_campaign=peerlyst_shared_post) by [Peerlyst](https://www.peerlyst.com/companies/peerlyst?trk=post_page_author).
+- [Four steps to IoT Security](https://www.kudelski-iot.com/wp-content/uploads/2019/11/Kudelski-IoT_Four-steps-to-IoT-security-whitepaper.pdf) by Eric Heiser.
+
 
 ## AWS IoT
 
@@ -25,6 +30,7 @@ This repository is intented to collect a set of links in order to provide a deep
 
 - [HackTheBox writeups](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA) by [IppSec](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA/about).
 - [HackTheBox CTF Writeups](https://github.com/Ignitetechnologies/HackTheBox-CTF-Writeups) by [Ignitetechnologies](https://github.com/Ignitetechnologies).
+- [IoT Pentesting Lab](https://www.peerlyst.com/posts/beginner-s-guide-to-pentesting-iot-architecture-network-and-setting-up-iot-pentesting-lab-part-1-nitesh-malviya?trk=post_page_recommended_reads) by [Nitesh Malviya](https://www.peerlyst.com/users/nitesh-malviya?trk=post_page_author).
 
 
 ## Security Organizations Whitepapers/Reports
