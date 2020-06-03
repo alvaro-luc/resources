@@ -31,7 +31,7 @@ This repository is intented to collect a set of links in order to provide a deep
 - [HackTheBox writeups](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA) by [IppSec](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA/about).
 - [HackTheBox CTF Writeups](https://github.com/Ignitetechnologies/HackTheBox-CTF-Writeups) by [Ignitetechnologies](https://github.com/Ignitetechnologies).
 - [IoT Pentesting Lab](https://www.peerlyst.com/posts/beginner-s-guide-to-pentesting-iot-architecture-network-and-setting-up-iot-pentesting-lab-part-1-nitesh-malviya?trk=post_page_recommended_reads) by [Nitesh Malviya](https://www.peerlyst.com/users/nitesh-malviya?trk=post_page_author).
-- [Web Application Penetration Testing](https://media-exp1.licdn.com/dms/document/C4D1FAQFxkhIagWp7bQ/feedshare-document-pdf-analyzed/0?e=1591189200&v=beta&t=Cdyfo2xvO6MeJon5ya3JwZVMy1mLysflJxxF55PGxtg) by [Manh Pham Tien](https://www.linkedin.com/in/manhnho/).
+- [Web Application Penetration Testing](https://media-exp1.licdn.com/dms/document/C4D1FAQFxkhIagWp7bQ/feedshare-document-pdf-analyzed/0?e=1591290000&v=beta&t=KckOq40WC8-pT7qR5yR1oFGEwxjTwkKXzX8M-igDxos) by [Manh Pham Tien](https://www.linkedin.com/in/manhnho/).
 
 
 ## Security Organizations Whitepapers/Reports
